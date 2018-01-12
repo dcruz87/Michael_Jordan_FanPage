@@ -1,0 +1,39 @@
+.title
+{
+  margin-left: 50px;
+  margin-right: 50px;
+  padding:15px;
+}
+.title h2
+{
+  text-align: center;
+  padding-bottom: 15px;
+  padding-top: 10px;
+}
+.headline
+{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+#mj
+{
+  font-family: 'Metal Mania', cursive;
+  font-size: 450%;
+}
+#goat
+{
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 275%;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    padding: 80px 40px 0px 0px;
+}
+.question
+{
+  text-align: center;
+  font-family: 'Metal Mania', cursive;
+  font-size: 100px;
+}
